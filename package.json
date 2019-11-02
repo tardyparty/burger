@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/tardyparty/burger.git"
   },
-  "author": "",
+  "author": "David Tardy",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tardyparty/burger/issues"
